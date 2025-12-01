@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611gutuswp9r6ie3jrbftesxn4bq79c9jvckxqt91sl&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 - 🔭 I’m currently working on **AI developement**
 
-- 👨‍💻 All of my projects are available at [https://rahim-farhat.onrender.com/](https://rahim-farhat.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://rahim-farhat.onrenders.com/](https://rahim-farhat.onrenders.com/)
 
 - 💬 Ask me about **MERN**
 
